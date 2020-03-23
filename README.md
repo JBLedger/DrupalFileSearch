@@ -8,10 +8,18 @@ I've had issues reading any file with a .sql extension, and there may be others.
 
 To use this utility:
 
-Create a new content, either webform (if you have it) or Basic Content
-In the body of the content, copy/paste the contents of the file WebFormText.txt
-Select the content type 'Full HTML'
-In the body header, ensure 'Source' is select
-Save
-Copy the script folder (or just the contents if it already exists) to the /htdocs folder (at the same level as the Drupal folder).
+1. Create a new content, either webform (if you have it) or Basic Content
+
+2. In the body of the content, copy/paste the contents of the file WebFormText.txt
+
+3. Select the content type 'Full HTML'
+
+4. In the body header, ensure 'Source' is select
+ 
+5. Save
+
+6. Copy the script folder (or just the contents if it already exists) to the /htdocs folder (at the same level as the Drupal folder).
+
+
+
 This project uses html, css, JavaScript, jquery, php and sql.
