@@ -1,0 +1,24 @@
+
+
+<!-- Thsi nisppit of html displays the 2 main search tags - the search text field and the search button -->
+
+<head>
+    <link rel="stylesheet" type="text/css" href="/../scripts/searchStyles.css">
+</head>
+
+<form action="" method="POST" >
+    <table><tr><td style="width: 350px;">
+        <p>Enter search criteria</p>
+        <input type="text" name="fname" id="fname" onkeypress="handleEnter(event)"/>
+        <input type="button" name="submit" value="Search" onclick="refreshData()" />
+        
+<!--
+        <label class="switch">
+            <input type="checkbox" checked id="switchview" onclick="toggleBox()">
+            <span class="slider round"></span>
+        </label>
+        </td><td><p><div id="toggler" class="toggletext">Formatted</p></div></td>
+-->
+    </tr></table>
+</form>
+<div id="divcontent" ></div>

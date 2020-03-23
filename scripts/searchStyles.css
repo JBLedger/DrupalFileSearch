@@ -1,0 +1,91 @@
+/*
+
+John Ledger
+March 2020
+
+This file contains the CSS for the text search UI
+
+*/
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    margin: 0px;
+}
+
+p {
+    margin: 0px;
+}
+
+td {
+    text-align: left;
+    margin: 0px;
+    padding: 0px!important;
+    border: 0px!important;
+}
+
+tr {
+    padding-right: 0px;
+}
+
+pre {
+    overflow-x: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    margin: 0px;
+}
+
+ul {
+    margin-left: 10px!important;
+}
+.padded {
+    padding: 8px;
+    margin: 0px;
+}
+
+.errRow {
+    width: 100%;
+    padding-left: 10px;
+}
+
+.divFoundBox {
+    width: 390px; 
+    height: 400px;
+    padding: 0px;
+    margin:0px; 
+    overflow: auto; 
+    border-right: 1px solid lightgray;
+    background-color: inherit;
+}
+
+.divFileContents {
+    height: 400px; 
+    width: 544px; 
+    overflow: auto;
+    padding: 0px; 
+    margin:0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

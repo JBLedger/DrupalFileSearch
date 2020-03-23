@@ -1,0 +1,8 @@
+<div w3-include-html="/../scripts/search.html">&nbsp;</div>
+<script src="/../scripts/systemFunctions.js"></script>
+<script src="/../scripts/refreshData.js"></script>
+<script src="/../scripts/scrollToSearch.js"></script>
+<script src="/../scripts/jquery-3.4.1.js"></script>
+<script>
+includeHTML();
+</script>
